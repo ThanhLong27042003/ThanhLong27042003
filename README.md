@@ -1,6 +1,6 @@
 <!--  -->
 <a href="#" target="_blank">
-  <img src="svg/NguyenDucQuan12.svg" width="1200" alt="Nguyễn Đức Quân" />
+  <img src="svg/ThanhLong27042003.svg" width="1200" alt="Nguyễn Đức Quân" />
 </a>
 
 <h2 align="center">📘 Technologies and Tools 🖥</h2>
@@ -55,11 +55,11 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-  <a href="#" title="NguyenDucquan12">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenDucQuan12&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  <a href="#" title="ThanhLong27042003">
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhLong27042003&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
-  <a href="#" title="NguyenDucQuan12">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=NguyenDucQuan12&show_icons=true&theme=dracula&border_color=61dafb&hide_border=true" />
+  <a href="#" title="ThanhLong27042003">
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=ThanhLong27042003&show_icons=true&theme=dracula&border_color=61dafb&hide_border=true" />
   </a>
 </div>
 
@@ -111,7 +111,7 @@
 <p><strong>✌ Mình thực hiện đam mê này là để phục vụ bản thân nên nó không chỉ là công nghệ thông tin, mà còn bao gồm cả đời sống cá nhân, vui chơi, giải trí, vì vậy mọi người hãy có thể ghé qua các mạng xã hội của mình để bình phẩm cũng như góp ý giúp mình hoàn thiện tốt hơn. </strong></p>
 <p>
   <!-- Tạo api người tham quan tại đây-->
-<p><strong>🤟 Mình có bao nhiêu vị khách ghé thăm rồi nhỉ: <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FNguyenDucQuan12%2FNguyenDucQuan12"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNguyenDucQuan12%2FNguyenDucQuan12&label=Kh%C3%A1ch%20tham%20quan&labelColor=%2337d67a&countColor=%23ba68c8&style=plastic" /></a></strong></p>
+<p><strong>🤟 Mình có bao nhiêu vị khách ghé thăm rồi nhỉ: <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FThanhLong27042003%2FThanhLong27042003"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FThanhLong27042003%2FThanhLong27042003&label=Kh%C3%A1ch%20tham%20quan&labelColor=%2337d67a&countColor=%23ba68c8&style=plastic" /></a></strong></p>
 <p>
 <p><strong>📞 Các bạn có thể liên lạc với mình thông qua các đường link phía trên, xin cảm ơn đã đọc (^_<)〜☆ </strong></p>
 </p>
